@@ -135,7 +135,7 @@
 
 @media (max-width: 767px) {
     .call-floating-btn {
-        bottom: 30px;   /* same bottom */
+        bottom: 20px;   /* same bottom */
         left: 16px;     /* closer to edge for mobile */
         width: 50px;
         height: 50px;
