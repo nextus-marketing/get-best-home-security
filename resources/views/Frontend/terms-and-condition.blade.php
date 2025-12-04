@@ -20,14 +20,14 @@
         </div>
     </section>
 
-    <div class="tp-about-area pt-120 pb-120">
+    <div class="tp-about-area pt-70 pb-70">
         <div class="container">
             <div class="row">
                 <div class="col-xl-12 col-lg-12">
                     <div class="tp-about-wrapper tp-about-wrapper-2 pt-40 mb-40 pr-40">
                         <div class="tp-section-box tp-section-box-2 p-relative">
                             <span class="tp-section-subtitle right d-inline-block">Terms and Conditions</span>
-                            <p class="mb-15">
+                            <p class="mb-15 mt-3">
                                 Welcome to Get Best Home Security. These Terms and Conditions (“Terms”) govern your use of our
                                 website, products, and services. By accessing or using our website or services, you agree
                                 to be bound by these Terms. If you do not agree with any part of these Terms, please do not

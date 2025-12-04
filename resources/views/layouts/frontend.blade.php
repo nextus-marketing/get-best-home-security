@@ -129,7 +129,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                <div class="col-xl-3 col-lg-6 col-md-7 col-5">
                   <div class="search-main p-relative">
                      <div class="tp-header-right">
-                        <a href="/contact" class="tp-btn-2 ml-20 d-none d-md-inline-block">Get In Touch</a>
+                        <a href="tel:+18558321250" class="tp-btn-2 ml-20 d-none d-md-inline-block">Get In Touch</a>
                         <a href="#" class="tp-menu-toggle tp-header-icon ml-20 d-xl-none"><i
                               class="far fa-bars"></i></a>
                      </div>

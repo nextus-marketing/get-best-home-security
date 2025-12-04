@@ -191,10 +191,12 @@ Monitor, manage, and safeguard your campus - anytime, anywhere.
                     <div class="team-member">
                         <img src="/frontend/my_img/why_choose.png" alt="Why Choose Get Best Home Security">
                     </div>
+                    </br>
                 </div>
                 <div class="col-xl-6">
                     <div class="team-info-main pt-0 pl-45">
-                        <div class="team-details-info">
+                        <div class="team-details-info mt-3">
+                        
                             <h5>Why Choose Get Best Home Security
                             </h5>
                             <p class="mb-1">Choose us for expert solutions, reliable service, and unmatched dedication to
