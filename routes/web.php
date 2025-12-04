@@ -20,10 +20,10 @@ use Illuminate\Support\Facades\Route;
 
 Route::view('/', 'Frontend.home')->name('home');
 Route::view('/home', 'Frontend.home-1')->name('home-1');
-Route::view('/about', 'Frontend.about')->name('about');
-Route::view('/services', 'Frontend.services')->name('services');
-Route::view('/contact', 'Frontend.contact')->name('contact');
-Route::view('/thankyou', 'Frontend.thankyou')->name('thankyou');
+// Route::view('/about', 'Frontend.about')->name('about');
+// Route::view('/services', 'Frontend.services')->name('services');
+// Route::view('/contact', 'Frontend.contact')->name('contact');
+// Route::view('/thankyou', 'Frontend.thankyou')->name('thankyou');
 
 Route::view('/privacy-policy', 'Frontend.privacy-policy')->name('privacy-policy');
 Route::view('/terms-and-condition', 'Frontend.terms-and-condition')->name('terms-and-condition');

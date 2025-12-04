@@ -285,7 +285,7 @@
             <div style="text-align: center; margin-top: 5px;">
                 <a class="tp-btn"
                    href="tel:+18558321250"
-                   style="display: inline-block; padding: 1px 39px; font-size: 19px; width: auto; min-width: 80px;">
+                   style="display: inline-block; padding: 1px 39px; font-size: 19px; width: auto; min-width: 80px; border-radius: 15px;">
                     <i class="fas fa-phone-alt"></i> Call Now
                 </a>
             </div>
