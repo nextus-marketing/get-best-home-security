@@ -12,7 +12,7 @@
                     <div class="row justify-content-xl-end">
                         <div class="col-xxl-6 col-xl-6 col-lg-8">
                             <div class="tp-slider-content tp-slider-content-two">
-                                <span class="tp-slider-sub-title">Smart Security, and Smarter Living</span>
+                                <span class="tp-slider-sub-title">Smart Security, Smarter Living</span>
                                 <h1 class="tp-slider-title">Innovative Technology at Your Fingertips</h1>
                                 <p>Control your home security remotely with our smart accessories designed for convenience
                                     and safety. Stay connected, stay safe.</p>
