@@ -15,7 +15,7 @@
                                 <span class="tp-slider-sub-title">Smart Security, Smarter Living</span>
                                 <h1 class="tp-slider-title">Innovative Technology at Your Fingertips</h1>
                                 <p>Control your home security remotely with our smart accessories designed for convenience
-                                    and safety. Stay connected, stay safe with us.</p>
+                                    and safety. Stay connected, stay safe.</p>
                                 <div class="tp-slide-btn-box mt-45">
                                     <div class="slider-btn mr-30">
                                         <a href="tel:+18558321250" class="tp-btn-white"><i class="fas fa-phone-alt"></i>
