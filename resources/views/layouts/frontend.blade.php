@@ -267,7 +267,7 @@
     </div>
 </footer>
 
-   <div class="modal fade" id="securityModal" tabindex="-1" aria-labelledby="securityModalLabel" aria-hidden="true">
+<div class="modal fade" id="securityModal" tabindex="-1" aria-labelledby="securityModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered">
         <div class="modal-content custom-modal text-center">
             <button
@@ -292,8 +292,6 @@
         </div>
     </div>
 </div>
-
-
 
     <!-- Bootstrap 5 JS -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
@@ -359,9 +357,6 @@
         }
     </style>
 
-
-
-
     <!-- JS here -->
     
     <script src="/frontend/assets/js/vendor/jquery.js"></script>
@@ -378,8 +373,4 @@
     <script src="/frontend/assets/js/ajax-form.js"></script>
     <script src="/frontend/assets/js/main.js"></script>
 </body>
-
-
-<!-- Mirrored from html.storebuild.shop/sectox/sectox// by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 16 Aug 2025 10:46:05 GMT -->
-
 </html>
