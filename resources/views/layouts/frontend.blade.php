@@ -28,7 +28,7 @@
     <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
     <link rel="canonical" href="{{ url()->current() }}" />
     
-    <!-- <script type="application/ld+json">
+<!-- <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Organization",
@@ -62,11 +62,9 @@
     </div> --}}
     <!-- pre loader area end -->
     <!-- Call Button -->
-    
     <a href="tel:+18558321250" class="call-floating-btn" title="Call Now">
         <i class="fas fa-phone-alt"></i>
     </a>
-
     <!-- back to top start -->
     <div class="progress-wrap">
         <svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
@@ -77,7 +75,7 @@
 
     <!-- header start -->
 
-   <header>
+    <header>
         <div class="header-notification-area black-bg pt-15 pb-15">
                     <div class="container">
                         <div class="row">
@@ -161,12 +159,10 @@
     <div class="footer-widget-area footer-bg pt-50 pb-10">
         <div class="container">
             <div class="row">
-
                 <div class="col-lg-6 col-md-6">
                     <div class="logo mb-3">
                         <a href="/"><img src="/frontend/my_img/new-logo/footer-logo.png" alt="logo" style="max-width: 60% !important;"></a>
                     </div>
-
                     <div class="footer-widget footer-col-1 mb-50">
                         <p>
                             Get Best Home Security provides trusted security solutions for homes and businesses.
@@ -174,24 +170,19 @@
                         </p>
                     </div>
                 </div>
-
                 <div class="col-lg-3 col-md-6">
                     <div class="footer-widget footer-col-2 mb-50">
                         <h3 class="footer-widget-title">Get In Touch</h3>
-
                         <div class="footer-contact">
-
                             <div class="footer-contact-item">
                                 <p>
                                     21 Glenside <br>
                                     Annandale, NJ, 08801
                                 </p>
                             </div>
-
                             <div class="footer-contact-item">
                                 <p><a href="tel:+18558321250">+1-855-832-1250</a></p>
                             </div>
-
                         </div>
                     </div>
                 </div>
@@ -261,7 +252,6 @@
                         </ul>
                     </div>
                 </div>
-
             </div>
         </div>
     </div>

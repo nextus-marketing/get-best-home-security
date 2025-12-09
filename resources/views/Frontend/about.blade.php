@@ -47,7 +47,6 @@
                         <hr class="mt-25 mb-30">
                         <div class="tp-ab-meta">
                             <div class="about-meta-img d-flex">
-
                                 <div class="tp-ab-meta-text pl-30">
                                     <p>With over 15 years of expertise in the field, we have been committed to delivering
                                         the best in security and automation solutions. Buy Home Security has consistently ranked
@@ -178,7 +177,7 @@
                     <a class="popup-image" href="/frontend/my_img/cam-4.webp"><img src="/frontend/my_img/cam-4.webp"
                             alt="Product-5"></a>
                 </div>
-
+            
             </div>
         </div>
     </div>
@@ -255,20 +254,20 @@
             </div>
         </div>
     </div>
-                 <style>
-                    .tp-feed-content .tp-latest-title {
-                        font-size: 17px;
-                    }
+        <style>
+            .tp-feed-content .tp-latest-title {
+                font-size: 17px;
+            }
 
-                    .tp-feed-content .tp-latest-title {
-    font-size: 18px;
-    color: var(--tp-common-black);
-    font-weight: unset;
-    line-height: 1.4;
-    letter-spacing: -0.7px;
-    padding-bottom: 15px;
-}
-                </style>
+            .tp-feed-content .tp-latest-title {
+                font-size: 18px;
+                color: var(--tp-common-black);
+                font-weight: unset;
+                line-height: 1.4;
+                letter-spacing: -0.7px;
+                padding-bottom: 15px;
+            }
+        </style>
     <div class="tp-feed-area pb-40">
         <div class="container">
             <div class="row text-center">
@@ -382,7 +381,6 @@
                             <a class="tp-btn" href="tel:+18558321250"> <i class="fas fa-phone-alt"></i> Let’s Connect
                                 <i class="fal fa-angle-right"></i></a>
                         </div>
-
                     </div>
                 </div>
             </div>

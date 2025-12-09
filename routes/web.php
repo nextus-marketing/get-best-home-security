@@ -30,7 +30,7 @@ Route::view('/terms-and-condition', 'Frontend.terms-and-condition')->name('terms
 
 
 Route::fallback(function () {
-    return response()->view('error.404', [], 404);
+    return response()->view('Error.404', [], 404);
 });
 
 require __DIR__ . '/auth.php';

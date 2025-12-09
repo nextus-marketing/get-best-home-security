@@ -1,7 +1,7 @@
 @extends('layouts.frontend')
 
 @section('title')
-    404 Not Found | Buy Home Security
+    404 Not Found | Get Best Home Security
 @endsection
 
 @section('content')
