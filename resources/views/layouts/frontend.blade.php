@@ -101,8 +101,8 @@
                      <nav id="mobile-menu">
                         <ul>
                            <li><a href="/">Home</a></li>
-                           <li><a href="/#about">About</a></li>
-                           <li><a href="/#contact">Contact</a></li>
+                           <li><a href="/#about">About Us</a></li>
+                           <li><a href="/#contact">Contact Us</a></li>
                         </ul>
                      </nav>
                   </div>
@@ -191,13 +191,11 @@
                     <div class="footer-widget footer-col-3 mb-50">
                         <h3 class="footer-widget-title">Main Pages</h3>
 
-                        <ul style="
-                            list-style:none;margin:0;padding:0;
+                        <ul style=" list-style:none;margin:0;padding:0;
                             display:block !important;
                             -webkit-column-count:1 !important; column-count:1 !important;
                             flex-direction:column !important; flex-wrap:nowrap !important;
-                            grid-template-columns:none !important;
-                        ">
+                            grid-template-columns:none !important;">
                             <li style="display:block !important; width:100% !important; margin:0 0 8px 0;">
                                 <a href="/">Home</a>
                             </li>
