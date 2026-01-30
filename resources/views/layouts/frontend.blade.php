@@ -305,7 +305,7 @@
         }
 
         .modal-logo {
-            max-width: 180px;
+            max-width: 290px;
             transition: transform 0.3s ease;
         }
 
