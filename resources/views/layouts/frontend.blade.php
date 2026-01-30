@@ -87,7 +87,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+            </div>
       <div class="header-area-flat pl-25 pr-25">
          <div class="container-fluid">
             <div class="row align-items-center">
@@ -116,7 +116,6 @@
                      </div>
                      <div class="search-form">
                         <form method="GET">
-                           
                            <button type="submit"><i class="fal fa-search"></i></button>
                         </form>
                      </div>
