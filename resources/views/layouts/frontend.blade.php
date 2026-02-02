@@ -38,7 +38,7 @@
   "contactPoint": [
     {
       "@type": "ContactPoint",
-      "telephone": "+1-855-832-1250",
+      "telephone": "+18884476320",
       "contactType": "sales",
       "email": "sales@buyhomesecurity.org",
       "areaServed": "US",
@@ -62,7 +62,7 @@
     </div> --}}
     <!-- pre loader area end -->
     <!-- Call Button -->
-    <a href="tel:+18558321250" class="call-floating-btn" title="Call Now">
+    <a href="tel:+18884476320" class="call-floating-btn" title="Call Now">
         <i class="fas fa-phone-alt"></i>
     </a>
     <!-- back to top start -->
@@ -110,7 +110,7 @@
                <div class="col-xl-3 col-lg-6 col-md-7 col-5">
                   <div class="search-main p-relative">
                      <div class="tp-header-right">
-                        <a href="tel:+18558321250" class="tp-btn-2 ml-20 d-none d-md-inline-block">Get In Touch</a>
+                        <a href="tel:+18884476320" class="tp-btn-2 ml-20 d-none d-md-inline-block">Get In Touch</a>
                         <a href="#" class="tp-menu-toggle tp-header-icon ml-20 d-xl-none"><i
                               class="far fa-bars"></i></a>
                      </div>
@@ -137,7 +137,7 @@
             </div>
             <ul class="sidebar-list">
                 <li>21 Glenside Annandale, NJ, 08801</li>
-                <li><a href="tel:+18558321250">+1-855-832-1250</a></li>
+                <li><a href="tel:+18884476320">+18884476320</a></li>
             </ul>
             <div class="tp-sidebar-social">
                 <a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -180,7 +180,7 @@
                                 </p>
                             </div>
                             <div class="footer-contact-item">
-                                <p><a href="tel:+18558321250">+1-855-832-1250</a></p>
+                                <p><a href="tel:+18884476320">+18884476320</a></p>
                             </div>
                         </div>
                     </div>
@@ -271,7 +271,7 @@
             <p class="modal-subtext">Get 3 Months Free Monitoring Services</p>
             <div style="text-align: center; margin-top: 5px;">
                 <a class="tp-btn"
-                   href="tel:+18558321250"
+                   href="tel:+18884476320"
                    style="display: inline-block; padding: 1px 39px; font-size: 19px; width: auto; min-width: 80px; border-radius: 15px;">
                     <i class="fas fa-phone-alt"></i> Call Now
                 </a>
